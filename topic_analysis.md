@@ -120,5 +120,5 @@ This report compares bertopic results across different platforms for each ct key
 </tr>
 </table>
 
-[View detailed topic comparison](results/results/KEYWORDS_NWO_platform_comparison.csv)
+[View detailed topic comparison](results/KEYWORDS_NWO_platform_comparison.csv)
 
