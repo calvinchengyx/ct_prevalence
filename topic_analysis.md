@@ -122,12 +122,3 @@ This report compares bertopic results across different platforms for each ct key
 
 [View detailed topic comparison](results/results/KEYWORDS_NWO_platform_comparison.csv)
 
----
-
-## Notes on Interpretation
-
-- Each visualization shows the distribution of topics within that platform for the given conspiracy theory keyword set
-- Topics are represented by different colors and labeled with their most representative words
-- Closer points in the visualization indicate more similar topics
-- The size of each cluster indicates the number of documents in that topic
-- For detailed topic distributions and word lists, refer to the CSV files linked above each visualization set
