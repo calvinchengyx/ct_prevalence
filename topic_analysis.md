@@ -31,96 +31,96 @@ This report compares bertopic results across different platforms for each ct key
 
 <table>
 <tr>
-<td width="33%">4chan<br><img src="topic_viz_KEYWORDS_9_11_4chan.png" alt="4chan 9/11 Topics"></td>
-<td width="33%">X (Twitter)<br><img src="topic_viz_KEYWORDS_9_11_X.png" alt="X 9/11 Topics"></td>
-<td width="33%">Bluesky<br><img src="topic_viz_KEYWORDS_9_11_bluesky.png" alt="Bluesky 9/11 Topics"></td>
+<td width="33%">4chan<br><img src="results/topic_viz_KEYWORDS_9_11_4chan.png" alt="4chan 9/11 Topics"></td>
+<td width="33%">X (Twitter)<br><img src="results/topic_viz_KEYWORDS_9_11_X.png" alt="X 9/11 Topics"></td>
+<td width="33%">Bluesky<br><img src="results/topic_viz_KEYWORDS_9_11_bluesky.png" alt="Bluesky 9/11 Topics"></td>
 </tr>
 <tr>
-<td width="33%">Gab<br><img src="topic_viz_KEYWORDS_9_11_gab.png" alt="Gab 9/11 Topics"></td>
-<td width="33%">GETTR<br><img src="topic_viz_KEYWORDS_9_11_gettr.png" alt="GETTR 9/11 Topics"></td>
-<td width="33%">Truth Social<br><img src="topic_viz_KEYWORDS_9_11_truthsocial.png" alt="Truth Social 9/11 Topics"></td>
+<td width="33%">Gab<br><img src="results/topic_viz_KEYWORDS_9_11_gab.png" alt="Gab 9/11 Topics"></td>
+<td width="33%">GETTR<br><img src="results/topic_viz_KEYWORDS_9_11_gettr.png" alt="GETTR 9/11 Topics"></td>
+<td width="33%">Truth Social<br><img src="results/topic_viz_KEYWORDS_9_11_truthsocial.png" alt="Truth Social 9/11 Topics"></td>
 </tr>
 </table>
 
-[View detailed topic comparison](KEYWORDS_9_11_platform_comparison.csv)
+[View detailed topic comparison](results/KEYWORDS_9_11_platform_comparison.csv)
 
 ## Alien/UFO Conspiracy Topics
 
 <table>
 <tr>
-<td width="33%">4chan<br><img src="topic_viz_KEYWORDS_ALIEN_4chan.png" alt="4chan Alien Topics"></td>
-<td width="33%">X (Twitter)<br><img src="topic_viz_KEYWORDS_ALIEN_X.png" alt="X Alien Topics"></td>
-<td width="33%">Bluesky<br><img src="topic_viz_KEYWORDS_ALIEN_bluesky.png" alt="Bluesky Alien Topics"></td>
+<td width="33%">4chan<br><img src="results/topic_viz_KEYWORDS_ALIEN_4chan.png" alt="4chan Alien Topics"></td>
+<td width="33%">X (Twitter)<br><img src="results/topic_viz_KEYWORDS_ALIEN_X.png" alt="X Alien Topics"></td>
+<td width="33%">Bluesky<br><img src="results/topic_viz_KEYWORDS_ALIEN_bluesky.png" alt="Bluesky Alien Topics"></td>
 </tr>
 <tr>
-<td width="33%">Fediverse<br><img src="topic_viz_KEYWORDS_ALIEN_fediverse.png" alt="Fediverse Alien Topics"></td>
-<td width="33%">GETTR<br><img src="topic_viz_KEYWORDS_ALIEN_gettr.png" alt="GETTR Alien Topics"></td>
-<td width="33%">Truth Social<br><img src="topic_viz_KEYWORDS_ALIEN_truthsocial.png" alt="Truth Social Alien Topics"></td>
+<td width="33%">Fediverse<br><img src="results/topic_viz_KEYWORDS_ALIEN_fediverse.png" alt="Fediverse Alien Topics"></td>
+<td width="33%">GETTR<br><img src="results/topic_viz_KEYWORDS_ALIEN_gettr.png" alt="GETTR Alien Topics"></td>
+<td width="33%">Truth Social<br><img src="results/topic_viz_KEYWORDS_ALIEN_truthsocial.png" alt="Truth Social Alien Topics"></td>
 </tr>
 </table>
 
-[View detailed topic comparison](KEYWORDS_ALIEN_platform_comparison.csv)
+[View detailed topic comparison](results/KEYWORDS_ALIEN_platform_comparison.csv)
 
 ## Moon Landing Conspiracy Topics
 
 <table>
 <tr>
-<td width="33%">4chan<br><img src="topic_viz_KEYWORDS_MOON_4chan.png" alt="4chan Moon Landing Topics"></td>
-<td width="33%">X (Twitter)<br><img src="topic_viz_KEYWORDS_MOON_X.png" alt="X Moon Landing Topics"></td>
-<td width="33%">Bluesky<br><img src="topic_viz_KEYWORDS_MOON_bluesky.png" alt="Bluesky Moon Landing Topics"></td>
+<td width="33%">4chan<br><img src="results/topic_viz_KEYWORDS_MOON_4chan.png" alt="4chan Moon Landing Topics"></td>
+<td width="33%">X (Twitter)<br><img src="results/topic_viz_KEYWORDS_MOON_X.png" alt="X Moon Landing Topics"></td>
+<td width="33%">Bluesky<br><img src="results/topic_viz_KEYWORDS_MOON_bluesky.png" alt="Bluesky Moon Landing Topics"></td>
 </tr>
 <tr>
-<td width="33%">Gab<br><img src="topic_viz_KEYWORDS_MOON_gab.png" alt="Gab Moon Landing Topics"></td>
-<td width="33%">GETTR<br><img src="topic_viz_KEYWORDS_MOON_gettr.png" alt="GETTR Moon Landing Topics"></td>
-<td width="33%">Truth Social<br><img src="topic_viz_KEYWORDS_MOON_truthsocial.png" alt="Truth Social Moon Landing Topics"></td>
+<td width="33%">Gab<br><img src="results/topic_viz_KEYWORDS_MOON_gab.png" alt="Gab Moon Landing Topics"></td>
+<td width="33%">GETTR<br><img src="results/topic_viz_KEYWORDS_MOON_gettr.png" alt="GETTR Moon Landing Topics"></td>
+<td width="33%">Truth Social<br><img src="results/topic_viz_KEYWORDS_MOON_truthsocial.png" alt="Truth Social Moon Landing Topics"></td>
 </tr>
 </table>
 
-[View detailed topic comparison](KEYWORDS_MOON_platform_comparison.csv)
+[View detailed topic comparison](results/KEYWORDS_MOON_platform_comparison.csv)
 
 ## COVID-19 Conspiracy Topics
 
 <table>
 <tr>
-<td width="33%">4chan<br><img src="topic_viz_KEYWORDS_COVID19_4chan.png" alt="4chan COVID-19 Topics"></td>
-<td width="33%">X (Twitter)<br><img src="topic_viz_KEYWORDS_COVID19_X.png" alt="X COVID-19 Topics"></td>
-<td width="33%">Bluesky<br><img src="topic_viz_KEYWORDS_COVID19_bluesky.png" alt="Bluesky COVID-19 Topics"></td>
+<td width="33%">4chan<br><img src="results/topic_viz_KEYWORDS_COVID19_4chan.png" alt="4chan COVID-19 Topics"></td>
+<td width="33%">X (Twitter)<br><img src="results/topic_viz_KEYWORDS_COVID19_X.png" alt="X COVID-19 Topics"></td>
+<td width="33%">Bluesky<br><img src="results/topic_viz_KEYWORDS_COVID19_bluesky.png" alt="Bluesky COVID-19 Topics"></td>
 </tr>
 <tr>
-<td width="33%">Fediverse<br><img src="topic_viz_KEYWORDS_COVID19_fediverse.png" alt="Fediverse COVID-19 Topics"></td>
-<td width="33%">Gab<br><img src="topic_viz_KEYWORDS_COVID19_gab.png" alt="Gab COVID-19 Topics"></td>
-<td width="33%">GETTR<br><img src="topic_viz_KEYWORDS_COVID19_gettr.png" alt="GETTR COVID-19 Topics"></td>
+<td width="33%">Fediverse<br><img src="results/topic_viz_KEYWORDS_COVID19_fediverse.png" alt="Fediverse COVID-19 Topics"></td>
+<td width="33%">Gab<br><img src="results/topic_viz_KEYWORDS_COVID19_gab.png" alt="Gab COVID-19 Topics"></td>
+<td width="33%">GETTR<br><img src="results/topic_viz_KEYWORDS_COVID19_gettr.png" alt="GETTR COVID-19 Topics"></td>
 </tr>
 <tr>
-<td width="33%">Truth Social<br><img src="topic_viz_KEYWORDS_COVID19_truthsocial.png" alt="Truth Social COVID-19 Topics"></td>
+<td width="33%">Truth Social<br><img src="results/topic_viz_KEYWORDS_COVID19_truthsocial.png" alt="Truth Social COVID-19 Topics"></td>
 <td width="33%"></td>
 <td width="33%"></td>
 </tr>
 </table>
 
-[View detailed topic comparison](KEYWORDS_COVID19_platform_comparison.csv)
+[View detailed topic comparison](results/KEYWORDS_COVID19_platform_comparison.csv)
 
 ## New World Order Topics
 
 <table>
 <tr>
-<td width="33%">4chan<br><img src="topic_viz_KEYWORDS_NWO_4chan.png" alt="4chan NWO Topics"></td>
-<td width="33%">X (Twitter)<br><img src="topic_viz_KEYWORDS_NWO_X.png" alt="X NWO Topics"></td>
-<td width="33%">Bluesky<br><img src="topic_viz_KEYWORDS_NWO_bluesky.png" alt="Bluesky NWO Topics"></td>
+<td width="33%">4chan<br><img src="results/topic_viz_KEYWORDS_NWO_4chan.png" alt="4chan NWO Topics"></td>
+<td width="33%">X (Twitter)<br><img src="results/topic_viz_KEYWORDS_NWO_X.png" alt="X NWO Topics"></td>
+<td width="33%">Bluesky<br><img src="results/topic_viz_KEYWORDS_NWO_bluesky.png" alt="Bluesky NWO Topics"></td>
 </tr>
 <tr>
-<td width="33%">Fediverse<br><img src="topic_viz_KEYWORDS_NWO_fediverse.png" alt="Fediverse NWO Topics"></td>
-<td width="33%">Gab<br><img src="topic_viz_KEYWORDS_NWO_gab.png" alt="Gab NWO Topics"></td>
-<td width="33%">GETTR<br><img src="topic_viz_KEYWORDS_NWO_gettr.png" alt="GETTR NWO Topics"></td>
+<td width="33%">Fediverse<br><img src="results/topic_viz_KEYWORDS_NWO_fediverse.png" alt="Fediverse NWO Topics"></td>
+<td width="33%">Gab<br><img src="results/topic_viz_KEYWORDS_NWO_gab.png" alt="Gab NWO Topics"></td>
+<td width="33%">GETTR<br><img src="results/topic_viz_KEYWORDS_NWO_gettr.png" alt="GETTR NWO Topics"></td>
 </tr>
 <tr>
-<td width="33%">Truth Social<br><img src="topic_viz_KEYWORDS_NWO_truthsocial.png" alt="Truth Social NWO Topics"></td>
+<td width="33%">Truth Social<br><img src="results/topic_viz_KEYWORDS_NWO_truthsocial.png" alt="Truth Social NWO Topics"></td>
 <td width="33%"></td>
 <td width="33%"></td>
 </tr>
 </table>
 
-[View detailed topic comparison](KEYWORDS_NWO_platform_comparison.csv)
+[View detailed topic comparison](results/results/KEYWORDS_NWO_platform_comparison.csv)
 
 ---
 
