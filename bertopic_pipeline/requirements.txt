@@ -1,0 +1,24 @@
+# BERTopic Modeling Pipeline Requirements
+# Install with: pip install -r requirements.txt
+
+# Core BERTopic and dependencies
+bertopic>=0.15.0
+umap-learn>=0.5.3
+hdbscan>=0.8.29
+scikit-learn>=1.0.2
+
+# Data processing
+pandas>=1.3.0
+numpy>=1.21.0
+pyarrow>=5.0.0  # For parquet file support
+
+# LLM integration
+openai>=0.28.0
+
+# Visualization (optional but recommended)
+plotly>=5.0.0
+matplotlib>=3.5.0
+
+# Additional utilities
+tqdm>=4.62.0
+joblib>=1.1.0
