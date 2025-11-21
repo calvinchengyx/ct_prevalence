@@ -9,10 +9,17 @@
 !results/*.png
 !results/*.md
 !results/*.csv
+!/VData/scro4316/ct_prevalence/bertopic_results_all_platforms_topics_gpt5.csv
+!/VData/scro4316/ct_prevalence/bertopic_pipeline/*.py
+!/VData/scro4316/ct_prevalence/bertopic_pipeline/*.html
+
 
 # Always ignore these files/folders
 embeddings/
+/VData/scro4316/ct_prevalence/bertopic_pipeline/__pycache__/
 *.parquet
 *.npy
 __pycache__/
 .ipynb_checkpoints/
+bertopic_results/
+results_preliminary/
