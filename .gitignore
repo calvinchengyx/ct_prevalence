@@ -12,6 +12,7 @@ __pycache__/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+README.md
 
 # Allow specific files
 !.gitignore

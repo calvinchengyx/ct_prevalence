@@ -5,7 +5,7 @@ BERTopic Modeling Pipeline
 This script performs topic modeling using BERTopic with the following steps:
 1. Load pre-embedded data from embedding files
 2. Filter documents by topic and platform
-3. Run BERTopic with HDBSCAN + UMAP clustering
+3. Run BERTopic with HDBSCAN + UMAP clustering per topic and platform
 4. Save topic model and results
 5. Generate LLM-based topic labels
 
